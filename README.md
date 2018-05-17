@@ -7,6 +7,8 @@ A list of tech commnuity events and organizations in Victoria BC. This list is c
 
 * [Battlesnake](battlesnake.io): The BattleSnake tournament is a multiplayer version of the classic arcade game Snake. Teams have the day to program their AI Snake and in the evening, each competes against multiple teams per round until one snake is left slithering.
 
+* [Camosun College Web & Social Media Meetup](https://www.meetup.com/Camosun-College-Social-Media-Meetup/):networking circle to discuss, explore, and navigate the expansive world of Social Media, WordPress, Mobile, Online Apps, and more. 
+
 * [con•cat](https://www.meetup.com/con-cat/): Community events for front end developers. Whether you focus more on css or javascript, prefer spaces over tabs, or code in Sublime/Vim (etc); we want to meet up! Our goal is to share, discuss, make connections and collaborate. 
 
 * Cloud frivolities: Dev-ops, sys-admin, and infrastructure monthly meetup.
@@ -33,6 +35,12 @@ A list of tech commnuity events and organizations in Victoria BC. This list is c
 
 * [SQL Server User Group](https://www.meetup.com/Victoria-SQL-Server-User-Group/): The local chapter of the Professional Association for SQL Server (PASS). The mission of PASS is to empower data professionals who leverage Microsoft technologies to connect, share, and learn through networking, knowledge sharing, and peer-based learning.
 
+* [UVic GameDev Club](https://www.facebook.com/groups/uvicgamedev/): UVic GameDev is a club focused on making games, whether it be professionally or for fun, solo or in teams. Game Developers of all disciplines and skill levels are encouraged to check out our workshops and presentations!
+
+* [UVic Web Design and Development Club](https://github.com/uvicwebdev):We are a community of students who collaborate and educate each other about all aspects of web development and design.
+
+* [UVic Women in Engineering and Computer Science (WECS)](https://wecs.csc.uvic.ca/): Our goal is to encourage and support gender diversity in Engineering, Computer Science, and other technical fields
+
 * [Victoria Digital Media Marketing](https://www.meetup.com/Victoria-Digital-Media-Marketing-Meetup/): Share interesting projects, gain new insights, and meet people IRL.
 
 * [Victoria Web Marketing Meetup Group](https://www.meetup.com/victoria-web-marketing/): Free web/ search / online marketing meetup.
@@ -43,4 +51,4 @@ A list of tech commnuity events and organizations in Victoria BC. This list is c
 
 * [YYJ Tech Slack Workspace](https://joinyyjtechslack.herokuapp.com/): 
 
-* [YYJTech Ladies](http://www.yyjtechladies.com/about-us): Community-driven initiatives for women in business and technology to learn, grow, and empower each other. 
+* [YYJ Tech Ladies](http://www.yyjtechladies.com/about-us): Community-driven initiatives for women in business and technology to learn, grow, and empower each other. 

@@ -32,6 +32,8 @@ For a calenday or events: http://bit.ly/yyjtechcalendar
 
 * [OpenHack Victoria](https://www.meetup.com/OpenHack-Victoria/): Come out. Hang. Sling code. It'll be fun.
 
+* [PeopleOps](http://www.peopleops.ca/): A network of people operations professionals that can share experiences and learn from others in the community, all in confidence. Sharing advice, tips and lessons learned to help inspire others to build the best companies Tectoria has ever seen.
+
 * Side Project Sunday: More info on YYJTech Slack.
 
 * [Startup Slam](startupslam.io): Startup Slam is a tech conference showcases Victoria’s burgeoning tech sector and provide insightful and informative workshops to young professionals. September 29, 2018 || University of Victoria

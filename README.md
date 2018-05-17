@@ -10,6 +10,8 @@ For a calenday or events: http://bit.ly/yyjtechcalendar
 
 * [Camosun College Web & Social Media Meetup](https://www.meetup.com/Camosun-College-Social-Media-Meetup/):networking circle to discuss, explore, and navigate the expansive world of Social Media, WordPress, Mobile, Online Apps, and more. 
 
+* [Canada Learning Code](https://www.canadalearningcode.ca/chapters/victoria/): Technology education for Canadians with programs for Ladies, Kids, Girls, Teens and Teachers. Educational experiences cover everything from introductory HTML & CSS, to WordPress, Python, Ruby, Responsive Design, Photoshop and more. 
+
 * [con•cat](https://www.meetup.com/con-cat/): Community events for front end developers. Whether you focus more on css or javascript, prefer spaces over tabs, or code in Sublime/Vim (etc); we want to meet up! Our goal is to share, discuss, make connections and collaborate. 
 
 * Cloud frivolities: Dev-ops, sys-admin, and infrastructure monthly meetup.

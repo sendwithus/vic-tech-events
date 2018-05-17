@@ -54,6 +54,6 @@ For a calenday or events: http://bit.ly/yyjtechcalendar
 
 * [Whiskey Dev](https://whiskydev.com/): Periodic whisky tasting events that seat 30 people to sample some fine whisky, learn a little bit about it, and socialize.
 
-* [YYJ Tech Slack Workspace](https://joinyyjtechslack.herokuapp.com/): 
+* [YYJ Tech Slack Workspace](https://joinyyjtechslack.herokuapp.com/)
 
 * [YYJ Tech Ladies](http://www.yyjtechladies.com/about-us): Community-driven initiatives for women in business and technology to learn, grow, and empower each other. 

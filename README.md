@@ -1,6 +1,11 @@
-# vic-tech-events
+# Victoria Tech Community Events
 
-Victoria Tech Community Events
+
+A list of tech commnuity events and organizations in Victoria BC. This list is currently managed by the [Sendwithus](http://sendwithus.com/about) team, and all contributions are welcome! 
+
+[Have ideas to make this better?](mailto:us@sendwithus.com)
+
+Tweet about us!
 
 * [Battlesnake](battlesnake.io): The BattleSnake tournament is a multiplayer version of the classic arcade game Snake. Teams have the day to program their AI Snake and in the evening, each competes against multiple teams per round until one snake is left slithering.
 

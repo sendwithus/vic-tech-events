@@ -14,7 +14,7 @@ For a calendar of events: http://bit.ly/yyjtechcalendar
 
 * [con•cat](https://www.meetup.com/con-cat/): Community events for front end developers. Whether you focus more on css or javascript, prefer spaces over tabs, or code in Sublime/Vim (etc); we want to meet up! Our goal is to share, discuss, make connections and collaborate. 
 
-* Cloud frivolities: Dev-ops, sys-admin, and infrastructure monthly meetup.
+* Cloud frivolities: Dev-ops, sys-admin, and infrastructure monthly meetup (Invite Only).
 
 * [Cutthroat Gaming](https://www.cutthroatgaming.org/): Local teams will face off in a video game tournament where spectators can influence the outcome by bidding on player sabotages during live gameplay.
 

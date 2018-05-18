@@ -28,6 +28,8 @@ For a calendar of events: http://bit.ly/yyjtechcalendar
 
 * [HighTechU](https://www.hightechu.ca/): HighTechU is about more than just coding; it's about empowering youth to build the diverse skills they need to succeed and thrive in the growing technology industry in Victoria and beyond.
 
+* [International Game Developers Association of Victoria (IGDA Victoria)](https://igdavictoria.com/#events): Month speakers and game demos, hack nights, and networking opportunities. 
+
 * [Monthly UX Socials](https://www.meetup.com/UX-Victoria/): Meeting once per quarter to provide a space for UX professionals on the island to socialize, network and learn new skills. 
 
 * [OpenHack Victoria](https://www.meetup.com/OpenHack-Victoria/): Come out. Hang. Sling code. It'll be fun.

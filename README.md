@@ -44,7 +44,7 @@ For a calendar of events: http://bit.ly/yyjtechcalendar
 
 * [UVic GameDev Club](https://www.facebook.com/groups/uvicgamedev/): UVic GameDev is a club focused on making games, whether it be professionally or for fun, solo or in teams. Game Developers of all disciplines and skill levels are encouraged to check out our workshops and presentations!
 
-* [UVic Web Design and Development Club](https://github.com/uvicwebdev):We are a community of students who collaborate and educate each other about all aspects of web development and design.
+* [UVic Web Design and Development Club](https://github.com/uvicwebdev): We are a community of students who collaborate and educate each other about all aspects of web development and design.
 
 * [UVic Women in Engineering and Computer Science (WECS)](https://wecs.csc.uvic.ca/): Our goal is to encourage and support gender diversity in Engineering, Computer Science, and other technical fields
 

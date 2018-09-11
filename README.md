@@ -42,6 +42,8 @@ For a calendar of events: http://bit.ly/yyjtechcalendar
 
 * [SQL Server User Group](https://www.meetup.com/Victoria-SQL-Server-User-Group/): The local chapter of the Professional Association for SQL Server (PASS). The mission of PASS is to empower data professionals who leverage Microsoft technologies to connect, share, and learn through networking, knowledge sharing, and peer-based learning.
 
+  * [UVIC Business Technology Club](https://www.facebook.com/UVICBTC/?fb_dtsg_ag=AdzQLFsnztu1amcRke6hCtUjWRwaiy-tfeK0e95bajQdHw%3AAdzDsJos-f0LtonZZU1fjF33yFVWFrzw2CZIVqiYLSjAkQ)Founded by a group of business students, the UVIC Business Technology Club was created to equip students with the skills and industry knowledge necessary to excel in Tech careers. We achieve this by offering workshops, learning resources and access to industry professionals to prepare UVic grads for success in Tech.
+
 * [UVic GameDev Club](https://www.facebook.com/groups/uvicgamedev/): UVic GameDev is a club focused on making games, whether it be professionally or for fun, solo or in teams. Game Developers of all disciplines and skill levels are encouraged to check out our workshops and presentations!
 
 * [UVic Web Design and Development Club](https://github.com/uvicwebdev): We are a community of students who collaborate and educate each other about all aspects of web development and design.
